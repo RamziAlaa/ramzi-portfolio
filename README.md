@@ -31,8 +31,6 @@ As of the start of 2024, Ramzi is still looking for opportunities to put his ski
 
 A very early project that I have begun recently. I'm very proud of the structure for my player controller.
 
-> **Caution:** I have not finished this section yet. It should be available before 7:00 pm EST.
-
 [**(View more about "un»ruin")**](./projects/unruin/unruin.md)
 
 #### **Hare:** Game Engine Creation. Early Proficiency with C++.
