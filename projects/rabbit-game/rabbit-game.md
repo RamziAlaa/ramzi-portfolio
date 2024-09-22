@@ -1,6 +1,8 @@
 # Hare
 
-> You can look in the subrepository `/projects/rabbit-game/Hare-Senior-Project` if you want to poke around with the codebase. The executable is in the *"Releases"* section in the Github repo.
+> I heavily recommend poking around in the sub-repository `/projects/rabbit-game/Hare-Senior-Project` if you're interested in skimming the code for this project. 
+> 
+> Furthermore, the binaries for the project are in the *"Releases"* section in the Github repo.
 
 Hare was my senior project back in high school. It's a game where you move a square in a level. There's no goal, but you can have fun moving very fast.
 
