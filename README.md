@@ -12,8 +12,6 @@
   - [Other Skills](#other-skills)
     - [Narrative Design](#narrative-design)
     - [Music Composition](#music-composition)
-    - [Sound Design](#sound-design)
-    - [Visual Arts](#visual-arts)
 
 ## About Me
 
