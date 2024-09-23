@@ -63,7 +63,7 @@ OCT's at their core, are writing competitions. Whether through an illustrative o
 
 > [(Link to audition feedback pdf)](.md-media/Quin%20Audition%20Results.pdf)
 
-> [(Link to round 1 feedback pdf)](.md-media/Quin%20Audition%20Results.pdf)
+> [(Link to round 1 feedback pdf)](.md-media/Quin%20Round%201%20Results.pdf)
 
 I adore writing and world-building, and would love to help lend a hand with the narrative design of a game whenever possible.
 
