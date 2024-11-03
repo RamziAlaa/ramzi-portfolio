@@ -21,7 +21,7 @@ Busy student studying game design. Looking to get busier. **Alaa Ramzi.**
 
 Since high school, I held a strong passion for art through digital mediums. I am now a full-time college student at the University of New Haven, studying Computer Science with a concentration in Game Design.
 
-As of the start of 2024, Ramzi is still looking for opportunities to put his skills to use.
+As of the start of 2024, I am looking for opportunities to put my skills to use.
 
 ## Projects & Accomplishments
 
