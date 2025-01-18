@@ -2,9 +2,7 @@
 
 ## About Me
 
-<!-- TODO: Complete. -->
-
-![Unity Badge 1](.md-media/unity-certified-associate-game-developer.png)
+![Unity Badge 1](.md-media/unity-certified-associate-game-developer.png)  https://www.credly.com/go/nwUYbkh5
 
 Busy student studying game design. Looking to get busier.
 
@@ -39,6 +37,5 @@ Eclimp is a prototype of a 3D turn-based strategy game that I am making in Godot
 A basic 2D platformer game. Made using SDL2 for graphics. The game is made from scratch, using C++.
 
 ![gif](./.md-media/hare_costco_sample.gif)
-
 
 [**(View more about "Hare")**](./projects/rabbit-game/rabbit-game.md)
