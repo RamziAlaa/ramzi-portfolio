@@ -2,7 +2,7 @@
 
 ![eclimp-showcase](../../.md-media/ezgif-3-35ae26b49a.gif)
 
-Eclimp is the code-word for a project I made for my narrative game design course. Currently, it is a role-playing game with a heavy focus on turn based fighting mechanics.
+Eclimp is the code-word for a role-playing game with a heavy focus on turn-based fighting mechanics.
 
 ## Basic Programming Structure
 
