@@ -28,7 +28,7 @@ This game was made in under 48 hours, winning a local university held game jam.
 
 #### **Eclimp:** Prototype Turn-based Combat Game.
 
-Eclimp is a 3D turn-based strategy game that I have made in Godot. It is my most current and well-made project so far.
+Eclimp is a prototype of a 3D turn-based strategy game that I am making in Godot. It is my most current and well-made project so far.
 
 ![eclimp-showcase](.md-media/ezgif-3-35ae26b49a.gif)
 
