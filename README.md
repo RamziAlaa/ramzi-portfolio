@@ -1,16 +1,5 @@
 # Game Design Portfolio
 
-## Table of Contents
-
-- [About Me](#about-me)
-- [Projects \& Accomplishments](#projects--accomplishments)
-  - [Game Programming](#game-programming)
-    - [**Mirror Game:** Game Jam Winner. Proficiency in Unity.](#mirror-game-game-jam-winner-proficiency-in-unity)
-    - [**Hare:** Game Engine Creation. Early Proficiency with C++.](#hare-game-engine-creation-early-proficiency-with-c)
-  - [Other Skills](#other-skills)
-    - [Narrative Design](#narrative-design)
-    - [Music Composition](#music-composition)
-
 ## About Me
 
 <!-- TODO: Complete. -->
