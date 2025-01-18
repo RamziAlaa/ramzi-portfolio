@@ -1,4 +1,4 @@
-# Game Design Portfolio
+# Alaa Ramzi: Game Design Portfolio
 
 ## About Me
 
