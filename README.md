@@ -2,13 +2,11 @@
 
 ## Table of Contents
 
-
 - [About Me](#about-me)
 - [Projects \& Accomplishments](#projects--accomplishments)
   - [Game Programming](#game-programming)
-    - [**Hare:** Game Engine Creation. Early Proficiency with C++.](#hare-game-engine-creation-early-proficiency-with-c)
     - [**Mirror Game:** Game Jam Winner. Proficiency in Unity.](#mirror-game-game-jam-winner-proficiency-in-unity)
-    - [**un»ruin:** Making Character Controllers. Proficiency in Godot.](#unruin-making-character-controllers-proficiency-in-godot)
+    - [**Hare:** Game Engine Creation. Early Proficiency with C++.](#hare-game-engine-creation-early-proficiency-with-c)
   - [Other Skills](#other-skills)
     - [Narrative Design](#narrative-design)
     - [Music Composition](#music-composition)
@@ -16,6 +14,8 @@
 ## About Me
 
 <!-- TODO: Complete. -->
+
+![Unity Badge 1](.md-media/unity-certified-associate-game-developer.png)
 
 Busy student studying game design. Looking to get busier. **Alaa Ramzi.**
 
@@ -37,12 +37,19 @@ This game was made in under 48 hours, winning a local university held game jam.
 
 [**(View more about "Mirror Game")**](./projects/mirror-game/mirror-game.md)
 
-#### **Hare:** Game Engine Creation. Early Proficiency with C++.
+#### **Eclimp:** Prototype Turn-based Combat Game.
 
-A very, very basic 2D platformer game that's not about rabbits.
+Eclimp is a 3D turn-based strategy game that I have made in Godot. It is my most current and well-made project so far.
+
+![eclimp-showcase](.md-media/ezgif-3-35ae26b49a.gif)
+
+[**(View more about "Eclimp")**](./projects/eclimp/eclimp.md)
+
+#### **Hare:** Game Engine Creation.
+
+A basic 2D platformer game. Made using SDL2 for graphics. The game is made from scratch, using C++.
 
 ![gif](./.md-media/hare_costco_sample.gif)
 
-I get more in-depth about both the technology and the history behind this project than anything else listed here. To summarize, **I made a 2D game engine from scratch in under two months.**
 
 [**(View more about "Hare")**](./projects/rabbit-game/rabbit-game.md)
