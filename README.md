@@ -14,6 +14,12 @@ As of the start of 2024, I am looking for opportunities to put my skills to use.
 
 ### Game Programming
 
+#### **Pollution Patrol:** Made with PyGame.
+
+A standalone game transforming mechanics from *Galaga* and *Breakout.*
+
+![yep](.md-media/pp-gameplay.gif)
+
 #### **Mirror Game:** Game Jam Winner. Proficiency in Unity.
 
 A simple puzzle game where you control two characters at the same time.
