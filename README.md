@@ -12,9 +12,7 @@ As of the start of 2024, I am looking for opportunities to put my skills to use.
 
 ## Projects & Accomplishments
 
-### Game Programming
-
-#### **Pollution Patrol:** Made with PyGame.
+### **Pollution Patrol:** Made with PyGame.
 
 A standalone game transforming mechanics from *Galaga* and *Breakout.*
 
@@ -22,7 +20,7 @@ A standalone game transforming mechanics from *Galaga* and *Breakout.*
 
 **View the source code in `/project-files/pollution-patrol-source-code/` (All art made by me)**
 
-#### **Mirror Game:** Game Jam Winner. Proficiency in Unity.
+### **Mirror Game:** Game Jam Winner. Proficiency in Unity.
 
 A simple puzzle game where you control two characters at the same time.
 
@@ -32,7 +30,7 @@ This game was made in under 48 hours, winning a local university held game jam.
 
 [**(View more about "Mirror Game")**](./projects/mirror-game/mirror-game.md)
 
-#### **Eclimp:** Prototype Turn-based Combat Game.
+### **Eclimp:** Prototype Turn-based Combat Game.
 
 Eclimp is a prototype of a 3D turn-based strategy game that I am making in Godot. It is my most current and well-made project so far.
 
@@ -40,7 +38,7 @@ Eclimp is a prototype of a 3D turn-based strategy game that I am making in Godot
 
 [**(View more about "Eclimp")**](./projects/eclimp/eclimp.md)
 
-#### **Hare:** Game Engine Creation.
+### **Hare:** Game Engine Creation.
 
 A basic 2D platformer game. Made using SDL2 for graphics. The game is made from scratch, using C++.
 
