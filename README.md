@@ -20,6 +20,8 @@ A standalone game transforming mechanics from *Galaga* and *Breakout.*
 
 ![yep](.md-media/pp-gameplay.gif)
 
+**View the source code in `/project-files/pollution-patrol-source-code/`**
+
 #### **Mirror Game:** Game Jam Winner. Proficiency in Unity.
 
 A simple puzzle game where you control two characters at the same time.
