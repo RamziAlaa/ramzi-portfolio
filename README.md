@@ -4,12 +4,6 @@
 
 ![Unity Badge 1](.md-media/unity-certified-associate-game-developer.png)  https://www.credly.com/go/nwUYbkh5
 
-Busy student studying game design. Looking to get busier.
-
-Since high school, I held a strong passion for art through digital mediums. I am now a full-time college student at the University of New Haven, studying Computer Science with a concentration in Game Design.
-
-As of the start of 2024, I am looking for opportunities to put my skills to use.
-
 ## Projects & Accomplishments
 
 ### **Pollution Patrol:** Made with PyGame.
