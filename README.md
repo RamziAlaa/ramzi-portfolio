@@ -12,6 +12,8 @@ A standalone game transforming mechanics from *Galaga* and *Breakout.*
 
 ![yep](.md-media/pp-gameplay.gif)
 
+View the source code in `projects/pollution-patrol/`
+
 [**PLAY IT HERE**](https://ramzialaa.github.io/projects/pollution-patrol/)
 
 ### **Mirror Game:** Game Jam Winner. Proficiency in Unity.
