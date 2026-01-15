@@ -4,6 +4,16 @@
 
 ![Unity Badge 1](.md-media/unity-certified-associate-game-developer.png)  https://www.credly.com/go/nwUYbkh5
 
+## Current Work
+
+### Sound Designer for Melessthanthree
+
+Currently, I'm working as a sound designer, programmer, and assistant writer for a work-in-progress RPG game made by the creator of [Death of a Wish](https://store.steampowered.com/app/2302080/Death_of_a_Wish/) and [Luca: Born of a Dream](https://store.steampowered.com/app/896460/Lucah_Born_of_a_Dream/).
+
+As of now, I have made dozens of sound effects for the game. Furthermore, I have implemented multiple systems to allow for a dynamic soundscape, including procedural level ambience.
+
+You can find the SFX that I have made at the time of writing this in `sounds/mystery-game-rpg/`.
+
 ## Projects & Accomplishments
 
 ### **Pollution Patrol:** Made with PyGame.
