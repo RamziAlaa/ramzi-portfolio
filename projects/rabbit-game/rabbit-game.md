@@ -1,6 +1,6 @@
 # Hare
 
-[View the repository here](https://github.com/Woodensponge/Hare-Senior-Project)
+[View the repository here](https://github.com/RamziAlaa/hare-senior-project-portfolio-rebase)
 
 Hare was my senior project back in high school. It's a game where you move a square in a level. There's no goal, but you can have fun moving very fast.
 
