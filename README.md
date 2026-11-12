@@ -1,6 +1,6 @@
 # Alaa Ramzi: Game Design Portfolio
 
-## About Me
+<!-- ## About Me -->
 
 <!-- Certificate expired -->
 <!--![Unity Badge 1](.md-media/unity-certified-associate-game-developer.png)  https://www.credly.com/go/nwUYbkh5 -->
