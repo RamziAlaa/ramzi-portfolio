@@ -2,7 +2,8 @@
 
 ## About Me
 
-![Unity Badge 1](.md-media/unity-certified-associate-game-developer.png)  https://www.credly.com/go/nwUYbkh5
+<!-- Certificate expired -->
+<!--![Unity Badge 1](.md-media/unity-certified-associate-game-developer.png)  https://www.credly.com/go/nwUYbkh5 -->
 
 ## Current Work
 
